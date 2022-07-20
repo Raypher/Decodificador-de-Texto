@@ -8,10 +8,13 @@
         width: 320px;
         display: block;
         margin: auto;
-    }    
+    } 
     .logo{
         padding: 15px;
     }
+
+    /* Esquerda */
+
     .esquerda {
         float:none;
         margin: 0;
@@ -32,9 +35,8 @@
         display: block;
         margin: auto auto 10px auto;
     }
-    #fundo{
-        display: none;
-    }
+        /* Direita */
+
     .direita{
         float: none;
         display: block;
@@ -42,13 +44,16 @@
         width: 85%;
         padding: 20px 10px 20px 10px;
     }   
-    #valor{
-        width: 100%;
-        font-size: 20px;
+    #fundo{
+        display: none;
     }
     #aviso-direita{
         font-size: 20px;
         font-style: bold;
+    }
+    #valor{
+        width: 100%;
+        font-size: 20px;
     }
     footer{
         font-size: 14px;
@@ -65,6 +70,8 @@
     .logo{
         padding: 40px;
     }
+        /* Esquerda */
+
     .esquerda {
         float:none;
         margin: 0;
@@ -92,14 +99,16 @@
         display: flex;
         align-items: center;
     }
-    #fundo{
-        display: none;
-    }
+        /* Direita */
+
     .direita{
         float: none;
         width: 90%;
         padding: 20px 0 20px 20px;
     }   
+    #fundo{
+        display: none;
+    }
     #aviso-direita{
         display: block;
         margin: auto;
@@ -113,10 +122,6 @@
     }
 }
 @media screen and (min-width: 922px) {
-    body{
-        background: #E5E5E5;
-        width: 100%;
-    }
     .container {
         width: 940px;
         height: 600px;
@@ -174,15 +179,15 @@
         padding: 10px;
     }
     #aviso-direita{
-	width: auto;
-	height: 58px;
-	font-family: 'Inter';
-	font-style: normal;
-	font-weight: 700;
-	font-size: 22px;
-	line-height: 120%;
-	text-align: center;
-}
+        width: auto;
+        height: 58px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 22px;
+        line-height: 120%;
+        text-align: center;
+    }
     .logo-link{
         height: 70px;
 	    margin: 10px 5px 20px 5px;

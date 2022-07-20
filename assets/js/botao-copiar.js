@@ -1,4 +1,3 @@
-
 function copiar(){
     const botao = document.querySelector('.botao-copiar');
     const resultado = document.querySelector('#valor').value;
