@@ -3,8 +3,8 @@
 
 Sobre o Projeto
 ---
-Resultado do primeiro desafio do programa ONE, da Oracle em parceria com a ALURA:
-- Um Decodificador de texto com design responsivo feito em HTML, CSS e JavaScript.
+Resultado do primeiro desafio do programa ONE, da Oracle em parceria com a Alura:
+- Decodificador de texto com design responsivo feito em HTML, CSS e JavaScript.
 
 <p align="center" >
      <img width="600" heigth="600" src="https://github.com/Raypher/Decodificador-de-Texto/blob/main/assets/img/Captura-de-tela.jpg">
