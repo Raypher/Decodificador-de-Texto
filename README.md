@@ -1,4 +1,4 @@
-# Alura Challenge | Oracle One | Lógica de Programação | Decodificador de texto
+# Alura Challenge | Oracle One | Decodificador de texto
 ###
 
 Sobre o Projeto
