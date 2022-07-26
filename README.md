@@ -3,7 +3,7 @@
 
 Sobre o Projeto
 ---
-Primeiro desafio do programa ONE: Um Decodificador de texto feito com HTML, CSS e JavaScript, com design responsivo
+Primeiro desafio do programa ONE: Um Decodificador de texto com design responsivo feito com HTML, CSS e JavaScript.
 
 
 <p align="center" >
