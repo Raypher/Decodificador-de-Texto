@@ -3,7 +3,8 @@
 
 Sobre o Projeto
 ---
-Primeiro desafio do programa ONE: Um Decodificador de texto com design responsivo feito com HTML, CSS e JavaScript.
+Resultado do primeiro desafio do programa ONE, da Oracle em parceria com a ALURA:
+- Um Decodificador de texto com design responsivo feito em HTML, CSS e JavaScript.
 
 <p align="center" >
      <img width="600" heigth="600" src="#">
@@ -33,6 +34,6 @@ Extra
 ---
 - Um botão que copia o texto criptografado/descriptografado para a área de transferência - ou seja, que tenha a mesma funcionalidade do ctrl+C ou da opção "copiar" do menu dos aplicativos. 
 
-Badge pela conclusão do desafio
+Badge pela Conclusão do Desafio
 ---
 <img width="400" heigth="400" src="https://github.com/Raypher/Decodificador-de-Texto/blob/main/assets/img/badge-challenge-1.png">
