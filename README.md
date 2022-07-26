@@ -5,10 +5,13 @@ Sobre o Projeto
 ---
 Primeiro desafio do programa ONE: Um Decodificador de texto com design responsivo feito com HTML, CSS e JavaScript.
 
-
 <p align="center" >
      <img width="600" heigth="600" src="#">
 </p>
+
+Badge de Conclusão
+---
+<img width="600" heigth="600" src="https://github.com/Raypher/Decodificador-de-Texto/blob/main/assets/img/badge-challenge-1.png">
 
 Chave de Criptografia
 ---
@@ -33,6 +36,3 @@ gaitober" => "gato"
 Extra
 ---
 - Um botão que copia o texto criptografado/descriptografado para a área de transferência - ou seja, que tenha a mesma funcionalidade do ctrl+C ou da opção "copiar" do menu dos aplicativos. 
-     
-<img width="600" heigth="600" src="#">
-
