@@ -1,7 +1,17 @@
 # Alura Challenge | Oracle One | Lógica de Programação | Decodificador de texto
 ###
 
-As "chaves" de criptografia utilizadas são:<br><br>
+
+
+<p align="center" >
+     <img width="600" heigth="600" src="#">
+</p>
+
+---
+Chave de Criptografia
+---
+
+As "chaves" de criptografia utilizadas são:<br>
 A letra "e" é convertida para "enter"<br>
 A letra "i" é convertida para "imes"<br>
 A letra "a" é convertida para "ai"<br>
