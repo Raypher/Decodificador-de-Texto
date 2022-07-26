@@ -10,8 +10,7 @@ Primeiro desafio do programa ONE: Um Decodificador de texto com design responsiv
      <img width="600" heigth="600" src="#">
 </p>
 
----
-Chave de Criptografia &#128273;
+Chave de Criptografia
 ---
 
 As "chaves" de criptografia utilizadas são:<br>
