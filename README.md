@@ -33,6 +33,6 @@ Extra
 ---
 - Um botão que copia o texto criptografado/descriptografado para a área de transferência - ou seja, que tenha a mesma funcionalidade do ctrl+C ou da opção "copiar" do menu dos aplicativos. 
 
-Badge de Conclusão
+Badge pela conclusão do desafio
 ---
-<img width="600" heigth="600" src="https://github.com/Raypher/Decodificador-de-Texto/blob/main/assets/img/badge-challenge-1.png">
+<img width="400" heigth="400" src="https://github.com/Raypher/Decodificador-de-Texto/blob/main/assets/img/badge-challenge-1.png">
