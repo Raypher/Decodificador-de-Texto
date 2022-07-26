@@ -142,7 +142,7 @@
         height: auto;
     }
     #texto{
-        height: 18em;
+        height: 20em;
         width: 100%;
         margin: 30px 0px 0px 0px;
         padding: 0;
@@ -195,5 +195,8 @@
     .logo-link:hover{
         transform: scale(1.1);
         transition-duration: 0.5s;
+    }
+    footer{
+        height: auto;
     }
 } 
