@@ -36,4 +36,6 @@ Extra
 
 Badge pela Conclusão do Desafio
 ---
-<img width="400" heigth="400" src="https://github.com/Raypher/Decodificador-de-Texto/blob/main/assets/img/badge-challenge-1.png">
+<p align="center">
+     <img width="400" heigth="400" src="https://github.com/Raypher/Decodificador-de-Texto/blob/main/assets/img/badge-challenge-1.png">
+</p>
