@@ -1,11 +1,10 @@
 # Alura Challenge | Oracle One | Decodificador de texto
 ###
 
-Sobre o Projeto
+Sobre o Projeto | Me ajude dando uma estrela no projeto
 ---
 Resultado do primeiro desafio do programa ONE, da Oracle em parceria com a Alura:
 - Decodificador de texto com design responsivo feito em HTML, CSS e JavaScript.
-- Me ajude dando uma estrela no projeto
 
 <p align="center" >
      <img width="600" heigth="600" src="https://github.com/Raypher/Decodificador-de-Texto/blob/main/assets/img/Captura-de-tela.jpg">
